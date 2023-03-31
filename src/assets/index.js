@@ -32,7 +32,7 @@ import graphQL from "./graphQL.png";
 import foodBot from "./foodBot.png";
 import jobit from "./jobit.png";
 import fpl from "./fpl.jpg";
-import blog from "./blog.png";
+import blog from "./blog.jpg";
 import tripguide from "./tripguide.png";
 
 export {
