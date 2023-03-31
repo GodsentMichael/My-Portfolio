@@ -139,7 +139,7 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Starbucks",
+      company_name: "Yelocode Systems",
       icon: yelocode,
       iconBg: "#383E56",
       date: "February 2023 - Present",
