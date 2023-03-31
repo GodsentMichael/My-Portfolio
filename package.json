@@ -6,7 +6,7 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "npm install --legacy-peer-deps vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -20,7 +20,6 @@
     "react-dom": "^18.2.0",
     "react-parallax-tilt": "^1.7.120",
     "react-router-dom": "^6.9.0",
-    "react-tilt": "^0.1.4",
     "react-vertical-timeline-component": "^3.6.0",
     "three": "^0.150.1"
   },
