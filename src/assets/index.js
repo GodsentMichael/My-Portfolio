@@ -33,6 +33,7 @@ import foodBot from "./foodBot.png";
 import jobit from "./jobit.png";
 import fpl from "./fpl.jpg";
 import blog from "./blog.jpg";
+import laundry from "./laundry.jpg";
 import tripguide from "./tripguide.png";
 
 export {
@@ -68,6 +69,7 @@ export {
   foodBot,
   jobit,
   blog,
+  laundry,
   tripguide,
   fpl,
 };

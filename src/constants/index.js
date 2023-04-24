@@ -25,6 +25,7 @@ import {
     jobit,
     foodBot,
     blog,
+    laundry,
     tripguide,
     fpl,
     threejs,
@@ -220,7 +221,7 @@ import {
     {
       name: "GraphQL API",
       description:
-        "In my bid to improve and effectively provide data via APIs, that can be easily consumed by frontend Engineers I built a graphQL API, this taught me a lot.",
+        "In my bid to improve and effectively provide data via APIs, that can be easily consumed by frontend Engineers I built a graphQL API, this taught me alternative API creation.",
       tags: [
         {
           name: "Nodejs",
@@ -300,6 +301,27 @@ import {
       ],
       image: blog,
       source_code_link: "https://github.com/GodsentMichael/BloggingAPI",
+    },
+    {
+      name: "Laundry/Cloth Mgt. API",
+      description:
+        "I pushed myself into creating an ecommerce API,as my sister runs a laundry/fabrics sales shop outlet, this inspired me to create a clothing/laundry Management API to see how well I have learnt nodejs and business logic implementation.😎 I added real life features including but not limited to payment gateway integration using paystack SDK.💪",
+        tags: [
+        {
+          name: "Nodejs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "MongoDB",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Express",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: laundry,
+      source_code_link: "https://github.com/GodsentMichael/clothing-laundry_app"
     },
   ];
   
