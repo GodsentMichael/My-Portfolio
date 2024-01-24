@@ -24,6 +24,8 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import yelocode from "./company/yelocode.png";
+import gstores from "./company/gstores.png";
+import Ologo from "./company/o-logo.jpeg";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
@@ -49,6 +51,8 @@ export {
   docker,
   figma,
   yelocode,
+  Ologo,
+  gstores,
   git,
   html,
   javascript,

@@ -21,6 +21,8 @@ import {
     tesla,
     shopify,
     yelocode,
+    Ologo,
+    gstores,
     carrent,
     jobit,
     foodBot,
@@ -143,7 +145,7 @@ import {
       company_name: "Yelocode Systems",
       icon: yelocode,
       iconBg: "#383E56",
-      date: "February 2023 - Present",
+      date: "January 2023 - May 2023",
       points: [
         "I picked interest in React.js as a frontend framework, and building with it.",
         "Collaborating with other react enthusiasts to develop ecommerce project.",
@@ -164,24 +166,24 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Yelocode Systems",
-      icon: yelocode,
+      title: "Fullstack Developer",
+      company_name: "Danny Okec Developer's Hub, Abuja",
+      icon: Ologo,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "June 2023 - December 2023",
       points: [
-        "Developing and maintaining web applications using HTML, Bootstrap and Javascript and other related technologies.",
+        "Developing and maintaining Web applications using HTML, Bootstrap,Tailwind, Javascript and Vue and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create websites.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing as well as getting constructive feedback to/from other developers.",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Yelocode Systems",
+      title: "Fullstack Developer",
+      company_name: "Uchelix Tech",
       icon: yelocode,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jan 2022 - Present",
       points: [
         "By choice, I'm a backend developer, but as time past and I needed to be able to handle the client-side and server-side of my web apps, it became more pertinent and imperative to learn a frontend framework. So I chose React.js.",
         "Create APIs with Node.js and Express.js, that are efficient and easy to consume by the Client-side.",
@@ -322,6 +324,27 @@ import {
       ],
       image: laundry,
       source_code_link: "https://github.com/GodsentMichael/clothing-laundry_app"
+    },
+    {
+      name: "Multi Vendor Ecommerce Store",
+      description:
+        "To further strenghten my ullstack skills, I built an Ecommerce multi vendor store called 'G-Stores'. This was buikt using Nodejs or the backend and React Js and Material Ui or the frontend. Mongodb was used or the database. I added stripe as payment gateway and used websockets for the chat functionality.💪",
+        tags: [
+        {
+          name: "Fullstack",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "MongoDB",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Socket.io",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: gstores,
+      source_code_link: "https://g-stores-multi-vendor-store.vercel.app/"
     },
   ];
   
