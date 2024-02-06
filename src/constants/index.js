@@ -180,7 +180,7 @@ import {
     },
     {
       title: "Fullstack Developer",
-      company_name: "Uchelix Tech",
+      company_name: "Tech Chambers",
       icon: yelocode,
       iconBg: "#E6DEDD",
       date: "Jan 2022 - Present",
@@ -328,7 +328,7 @@ import {
     {
       name: "Multi Vendor Ecommerce Store",
       description:
-        "To further strenghten my ullstack skills, I built an Ecommerce multi vendor store called 'G-Stores'. This was buikt using Nodejs or the backend and React Js and Material Ui or the frontend. Mongodb was used or the database. I added stripe as payment gateway and used websockets for the chat functionality.💪",
+        "To further strenghten my fullstack skills, I built an Ecommerce multi vendor store called 'G-Stores'. This was built using Nodejs for the backend and React Js + Material Ui for the frontend. Mongodb was used for the database. I added stripe as payment gateway and used websockets for the chat functionality.💪",
         tags: [
         {
           name: "Fullstack",
